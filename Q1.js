@@ -1,8 +1,8 @@
 //#1
-function convertCtoF()
+function convertCtoF(celsius)
 {
-  let celsius = window.prompt("Enter a temperature in celsius.")
   let fahrenheit;
   fahrenheit = (celsius * 9/5) + 32;
   return fahrenheit;
 }
+console.log(convertCtoF(30));
