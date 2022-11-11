@@ -1,0 +1,28 @@
+{
+  "name": "achievement",
+  "version": "1.0.0",
+  "description": "201 achievement 2",
+  "main": "Q1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Q1": "node Q1.js",
+    "Q2": "node Q2.js",
+    "Q3": "node Q3.js",
+    "Q4": "node Q4.js",
+    "Q5": "node Q5.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doh1024/achieve-201.git"
+  },
+  "keywords": [
+    "201",
+    "achievemnt"
+  ],
+  "author": "Dohyeong Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Doh1024/achieve-201/issues"
+  },
+  "homepage": "https://github.com/Doh1024/achieve-201#readme"
+}
